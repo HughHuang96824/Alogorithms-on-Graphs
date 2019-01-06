@@ -1,20 +1,20 @@
 # Alogorithms-on-Graphs
 
 Topics: 
-Definition of Graphs and Representing Graphs,
-Connected Components;
-Previsit and Postvisit Orders;
-Directed Acyclic Graphs;
-Topological Sort;
-Strongly Connected Components;
-Breadth-First and Depth-First Search;
-Shortest Path Tree;
-Fastest Route;
-Dijkstra's Algorithm;
-Building a Network;
-Greedy Algorithms;
-Cut Property;
-Kruskal’s Algorithm and Prim’s Algorithm;
+Definition of Graphs and Representing Graphs//
+Connected Components//
+Previsit and Postvisit Orders//
+Directed Acyclic Graphs//
+Topological Sort//
+Strongly Connected Components//
+Breadth-First and Depth-First Search//
+Shortest Path Tree//
+Fastest Route//
+Dijkstra's Algorithm//
+Building a Network//
+Greedy Algorithms//
+Cut Property//
+Kruskal’s Algorithm and Prim’s Algorithm//
 
 
 The following programs are assignments for Alogorithms on Graphs. The descriptions of the assignments are in the pdf files
