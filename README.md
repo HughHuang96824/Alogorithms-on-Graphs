@@ -1,7 +1,7 @@
 # Alogorithms-on-Graphs
 
 Topics: 
-Definition of Graphs and Representing Graphs;
+Definition of Graphs and Representing Graphs,
 Connected Components;
 Previsit and Postvisit Orders;
 Directed Acyclic Graphs;
