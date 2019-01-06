@@ -19,12 +19,24 @@ Kruskal’s Algorithm and Prim’s Algorithm //
 
 The following programs are assignments for Alogorithms on Graphs. The descriptions of the assignments are in the pdf files
 
-1.pdf: reachability.cpp; connected_components.cpp
+1.pdf: 
+reachability.cpp; 
+connected_components.cpp
 
-2.pdf: acyclicity.cpp; toposort.cpp; strongly_connected.cpp
+2.pdf: 
+acyclicity.cpp; 
+toposort.cpp; 
+strongly_connected.cpp
 
-3.pdf: bfs.cpp; bipartite.cpp
+3.pdf: 
+bfs.cpp; 
+bipartite.cpp
 
-4.pdf: dijkstra.cpp; negative_cycle.cpp; shortest_paths.cpp
+4.pdf: 
+dijkstra.cpp; 
+negative_cycle.cpp; 
+shortest_paths.cpp
 
-5.pdf: connecting_points.cpp; clustering.cpp
+5.pdf: 
+connecting_points.cpp; 
+clustering.cpp
