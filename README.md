@@ -1,8 +1,23 @@
 # Alogorithms-on-Graphs
 
-Alogorithms on Graphs assignments
+Topics: 
+Definition of Graphs and Representing Graphs;
+Connected Components;
+Previsit and Postvisit Orders;
+Directed Acyclic Graphs;
+Topological Sort;
+Strongly Connected Components;
+Breadth-First and Depth-First Search;
+Shortest Path Tree;
+Fastest Route;
+Dijkstra's Algorithm;
+Building a Network;
+Greedy Algorithms;
+Cut Property;
+Kruskal’s Algorithm and Prim’s Algorithm;
 
-These programs are assignments for Alogorithms on Graphs. The descriptions of the assignments are in the pdf files
+
+The following programs are assignments for Alogorithms on Graphs. The descriptions of the assignments are in the pdf files
 
 1.pdf: reachability.cpp; connected_components.cpp
 
@@ -12,4 +27,4 @@ These programs are assignments for Alogorithms on Graphs. The descriptions of th
 
 4.pdf: dijkstra.cpp; negative_cycle.cpp; shortest_paths.cpp
 
-Week 5 is in progress.
+5.pdf: connecting_points.cpp; clustering.cpp
